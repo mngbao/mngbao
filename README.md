@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bao Mai aka @mngbao
+- 👋 Hi, I’m Tony Mai aka @mngbao
 - 👀 I’m a Junior Software Enginner 
 - 📫 Please reach me at mngbao.vietnam@gmail.com
 
